@@ -1,0 +1,9 @@
+[package]
+name = "spaceseeker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.2.0"
+chrono = "0.4.19"
+rayon = "1.5"
